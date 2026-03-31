@@ -1,5 +1,3 @@
-# webinars
-
 # Kubernetes
 
 # AWS
